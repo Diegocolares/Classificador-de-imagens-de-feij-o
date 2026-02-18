@@ -35,6 +35,6 @@ The following theme will be displayed, then simply upload an image you wish to e
 
 # Contact
 
-- **Email**: colaresmarcelo2022@gmail.com
-- **LinkedIn**: [engmarcelocolares](https://www.linkedin.com/in/engmarcelocolares/)
+- **Email**: diegodamotacolares@gmail.com
+
 
